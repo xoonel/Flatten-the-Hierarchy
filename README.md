@@ -1,4 +1,4 @@
-Flatten-the-Hierarchy
+#Flatten-the-Hierarchy
 
 Description:
 Flatten-the-Hierarchy is a simple bash script which automates what should be simple task. Flatten-the-Hierarchy takes all files from a directory and any associated subdirectories and recurisively copies them to another single directory. Flattens the file structure to one directory. Usefull for digital forensics, file management, etc.
